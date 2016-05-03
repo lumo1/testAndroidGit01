@@ -6,4 +6,6 @@
     <string name="opcja_1">Opcja 1</string>
     <string name="opcja_2">Opcja 2</string>
     <string name="akceptuj">Akceptuję !</string>
+    <string name="longtext">Nullam cursus lacinia erat. Praesent nec nisl a purus blandit viverra. Cras sagittis. Morbi mollis tellus ac sapien. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem.
+Fusce commodo aliquam arcu. Nullam vel sem. Nullam dictum felis eu pede mollis pretium. Etiam rhoncus. Morbi nec metus.</string>
 </resources>
